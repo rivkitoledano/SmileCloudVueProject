@@ -1,8 +1,8 @@
 # SmileCloudVueProject
 
-## 📝 חלק הסבר - תשובות לשאלות התרגיל
+## חלק הסבר - תשובות לשאלות התרגיל
 
-### 1. 🎨 באיזו שיטה השתמשתי לציור המשולש?
+### 1. באיזו שיטה השתמשתי לציור המשולש?
 
 **תשובה:** השתמשתי ב-**SVG (Scalable Vector Graphics)**
 
@@ -14,7 +14,7 @@
 
 ---
 
-### 2. 🧮 כיצד חישבתי את ערך הזוויות?
+### 2. כיצד חישבתי את ערך הזוויות?
 
 **תשובה:** השתמשתי ב-**Law of Cosines (חוק הקוסינוסים)**
 
@@ -57,7 +57,7 @@ function calculateAngleAtVertex(vertex: Point, p1: Point, p2: Point): number {
 
 ---
 
-### 5. 🤖 האם השתמשתי בעזרים חיצוניים?
+### 5. האם השתמשתי בעזרים חיצוניים?
 
 **כן, השתמשתי במספר עזרים:**
 
@@ -70,7 +70,7 @@ function calculateAngleAtVertex(vertex: Point, p1: Point, p2: Point): number {
   - אופטימיזציה של קוד
   - - התאמה לVue, בדר"כ כותבת בreact.
 
-#### 📚 **מקורות ותיעוד:**
+####  **מקורות ותיעוד:**
 - Vue.js Documentation - לתחביר נכון
 - MDN Web Docs - לפונקציות SVG
 - Stack Overflow - לפתרון בעיות ספציפיות
